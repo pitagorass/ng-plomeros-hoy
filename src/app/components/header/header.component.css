@@ -1,0 +1,17 @@
+.icono{
+  width: 149px;
+  height: 71px;
+  background-color: transparent;
+}
+
+.fondo{
+    background-color: #1b637b;
+}
+
+.links{
+  font-size: 15px;
+  font-weight: bold;
+  color:black;
+  text-decoration: none;
+
+}
