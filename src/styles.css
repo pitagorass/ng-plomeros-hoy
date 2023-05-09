@@ -1,7 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
 * {
 }
+/* Carga la fuente Audiowide desde Google Fonts */
+@import url('https://fonts.google.com/specimen/Lato');
 
+/* Aplica la fuente Audiowide al cuerpo del documento */
 body {
-  background: #086381;
+  font-family: 'Audiowide', sans-serif;
+  background: #e9eef0;
 }
