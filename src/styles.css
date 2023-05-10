@@ -1,11 +1,11 @@
-/* You can add global styles to this file, and also import other style files */
-* {
-}
-/* Carga la fuente Audiowide desde Google Fonts */
-@import url('https://fonts.google.com/specimen/Lato');
+/* Agrega el siguiente código al final de tu archivo CSS */
 
-/* Aplica la fuente Audiowide al cuerpo del documento */
+/* Agrega la fuente a tu archivo CSS */
+@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&display=swap');
+
+/* Configura la fuente para que sea la fuente predeterminada para el cuerpo de la página */
 body {
-  font-family: 'Audiowide', sans-serif;
+  font-family: 'Bruno Ace SC', cursive;
   background: #e9eef0;
+
 }

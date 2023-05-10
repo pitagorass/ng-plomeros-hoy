@@ -1,3 +1,18 @@
-.boton {
-  margin: 10px;
+/* Ajusta la altura del footer */
+footer {
+  height: 100px;
+  background-color: #222;
+  color: white;
+  margin-bottom: 30px;
+}
+
+/* Centra verticalmente el texto del footer */
+footer p {
+  margin-top: 40px;
+}
+
+/* Ajusta la altura y margen superior de la sección de contacto */
+.contacto {
+  height: 400px;
+  margin-top: 50px;
 }
